@@ -1,0 +1,21 @@
+.container {
+
+    border-radius: 30px;
+    text-align: center;
+    max-width: 30%;
+}
+
+form {
+    align-items: center;
+    border-radius: 20px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+button {
+    border-radius: 50px;
+    margin: 20px;
+    margin-top: 20px;
+    margin-right: 15px;
+}

@@ -1,0 +1,19 @@
+table {
+    width: 100%;
+}
+
+.edit {
+    margin-right: 20px;
+}
+
+.edit > i {
+    color: yellow;
+}
+
+.delete > i {
+    color: red;
+}
+.container{
+    max-width: 500px;
+    border-radius: 15px;
+}
